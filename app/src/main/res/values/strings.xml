@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="add_new_note">Add New Note</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="notes">Notes</string>
+    <string name="gshjhghad_aj">gshjhghad aj</string>
+    <string name="todo">TODO</string>
+    <string name="note_title">Note Title</string>
+    <string name="this_can_be_note_content_that_can_belong">this can be note content that can belong</string>
+    <string name="note_date">note date</string>
+    <string name="already_an_user_login">Already an user? Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="sign_up2">Sign Up</string>
+    <string name="not_yet_registered_sign_up">Not yet registered? Sign Up</string>
+    <string name="login">Login</string>
+    <string name="password2">Password</string>
+    <string name="username99">Username</string>
+    <string name="login4">Login</string>
+    <string name="todoh">TODO</string>
+    <string name="piu">TODO</string>
+    <string name="vgbg">TODO</string>
+</resources>
